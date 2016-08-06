@@ -1,0 +1,32 @@
+_repo: Wild-WingsA-Romance-of-Youth_11165
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chalmers, Margaret Piper
+    aliases:
+    - Chalmers, Margaret Rebecca Piper
+    - Piper, Margaret Rebecca
+    birthdate: 1880
+    gutenberg_agent_id: '3871'
+    url: http://www.gutenberg.org/2009/agents/3871
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'Young men -- Fiction'
+- GITenberg
+title: 'Wild Wings
+
+  A Romance of Youth'
+url: http://www.gutenberg.org/ebooks/11165
